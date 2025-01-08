@@ -1,1 +1,1 @@
-
+POSTGRESQL_URI=postgres://avnadmin:AVNS_kJ9ORQLjnJtIDExp0S9@pg-17737381-autodiscover-db.h.aivencloud.com:16142/defaultdb?sslmode=require
